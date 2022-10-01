@@ -14,3 +14,14 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+.caption {
+    margin:auto;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    width: 970px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border: .5px solid black;
+}
